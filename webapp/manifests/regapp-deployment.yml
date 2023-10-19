@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: regapp
-        image: 184235429893.dkr.ecr.us-west-1.amazonaws.com/dockerregistry:8
+        image: 184235429893.dkr.ecr.us-west-1.amazonaws.com/dockerregistry
         ports:
         - containerPort: 8080
